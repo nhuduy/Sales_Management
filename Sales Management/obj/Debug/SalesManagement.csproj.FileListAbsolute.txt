@@ -1,0 +1,22 @@
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales_Management.FrmLogin.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales_Management.FrmMain.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales_Management.FrmRegister.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\SalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales Management.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales Management\Sales Management\Sales Management\obj\Debug\Sales Management.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\bin\Debug\Sales Management.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\bin\Debug\Sales Management.pdb
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\SalesManagement.csprojAssemblyReference.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales_Management.FrmLogin.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales_Management.FrmMain.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales_Management.FrmRegister.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales_Management.Properties.Resources.resources
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\SalesManagement.csproj.GenerateResource.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\SalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales Management.exe
+C:\Users\Andy\OneDrive\Study\Excercise\C#\Windows Forms\Repositories\Sales_Management\Sales Management\obj\Debug\Sales Management.pdb
